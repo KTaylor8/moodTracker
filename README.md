@@ -1,6 +1,6 @@
 # Mood Tracker
 
-I created this sentiment analyzer for my final project in my Computer Programming class in Fall of 2018 in order to learn about natural language processing. The mood tracker asks you about your day, determines the general mood of the response (positive, negative, or neutral), provides an appropriate reaction (currently limited), stores entries over time, and displays your mood graphically over the course of many entries. In its current state, the mood tracker works best with in simple sentences in simple present tense. Also, at present it is only configured for responses in English.
+I created this sentiment analyzer for my final project in my Computer Programming class (fall semester 2018) in order to learn about natural language processing. The mood tracker asks you about your day, determines the general mood of the response (positive, negative, or neutral), provides an appropriate reaction (currently limited), stores entries over time, and displays your mood graphically over the course of many entries. In its current state, the mood tracker works best with in simple sentences in simple present tense. Also, at present it is only configured for responses in English.
 
 Here is a flowchart for the program:
 ![Mood Tracker flowchart](moodTrackerFlowchart.jpg)
